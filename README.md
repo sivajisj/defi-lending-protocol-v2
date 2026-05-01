@@ -176,7 +176,7 @@ See [USER_GUIDE.md](./USER_GUIDE.md) for how to use the live protocol.
 **Sivaji Gadidala** — Solana & EVM Blockchain Engineer
 
 - GitHub: [@sivajisj](https://github.com/sivajisj)
-- LinkedIn: [linkedin.com/in/sivaji](https://linkedin.com/in/sivaji)
+- LinkedIn: [linkedin.com/in/sivaji](https://www.linkedin.com/in/sivaji-gadidala-b712ba221/)
 
 ---
 
