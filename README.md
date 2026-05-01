@@ -12,7 +12,7 @@ A production-grade decentralised lending protocol built from scratch on Solidity
 
 ## Screenshot
 
-![DeFi Lending Protocol Dashboard](./screenshot.png)
+![DeFi Lending Protocol Dashboard](./Screenshot.png)
 
 > Connected wallet showing 0.048 ETH balance, $13 USDC available liquidity, 5% borrow APR, 150% collateral ratio, live on Sepolia Testnet.
 
